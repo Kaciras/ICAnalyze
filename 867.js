@@ -1,1 +1,0 @@
-(self.webpackChunkic_analyze=self.webpackChunkic_analyze||[]).push([[867],{3867:()=>{}}]);
